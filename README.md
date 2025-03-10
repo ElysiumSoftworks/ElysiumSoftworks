@@ -1,6 +1,6 @@
 # Elysium Softworks
 
-Welcome to **Elysium Softworks**! 🌐 We’re a passionate team focused on creating innovative and helpful software to improve your online experience. Our projects aim to bring useful, fun, and impactful tools to the internet.
+Welcome to **Elysium Softworks**! We’re a passionate team focused on creating innovative and helpful software to improve your online experience. Our projects aim to bring useful, fun, and impactful tools to the internet.
 
 ## 🚀 Our Mission
 
