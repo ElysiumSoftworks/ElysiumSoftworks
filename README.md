@@ -19,7 +19,7 @@ We welcome contributions from the community! If you have ideas or want to help i
 
 Want to chat, suggest ideas, or have questions? Feel free to reach out:
 
-- Email: [contact@elysiumsoftworks.com](mailto:contact@elysium.zip)
+- Email: [contact@elysium.zip](mailto:contact@elysium.zip)
 - X: [@ElysiumSftwrks](https://x.com/elysiumsftwrks)
 - Discord: [Join our server!](https://discord.gg/JN5csjpxdw)
 
